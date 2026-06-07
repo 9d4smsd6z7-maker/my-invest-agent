@@ -1,0 +1,22 @@
+{
+  "_comment": "视频数据反馈记录。每发一条视频，把数据填进来，Agent 会用这些数据做复盘分析。",
+  "_example": {
+    "date": "2026-06-10",
+    "platform": "抖音",
+    "title_hook": "你有没有过这种感觉，努力了很久，却觉得自己什么都没变",
+    "topic": "内耗/自我怀疑",
+    "series": "情绪管理",
+    "stats": {
+      "plays": 1200,
+      "completion_rate": "45%",
+      "likes": 89,
+      "comments": 23,
+      "shares": 12,
+      "follows_from": 15
+    },
+    "score": 3,
+    "notes": "完播率偏低，钩子不够强，但评论质量高，说明内容本身有共鸣",
+    "next_action": "下次同类选题换一个更具体的场景化钩子"
+  },
+  "entries": []
+}

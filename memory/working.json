@@ -1,0 +1,33 @@
+{
+  "_comment": "工作记忆 — Agent 每次对话后自动更新，请勿手动随意修改",
+  "last_updated": "",
+  "watchlist": {
+    "_comment": "当前关注的标的，Agent 从 my-soul.md 自动同步并补充",
+    "equities": [],
+    "crypto": [],
+    "macro_indicators": ["VIX", "DXY", "US10Y", "US2Y"]
+  },
+  "active_research": {
+    "_comment": "当前正在研究的课题",
+    "topics": [],
+    "pending_questions": []
+  },
+  "market_context": {
+    "_comment": "Agent 对当前市场环境的判断，随对话持续更新",
+    "macro_stance": "",
+    "equity_bias": "",
+    "crypto_bias": "",
+    "last_signal_check": {
+      "sp500": { "date": "", "triggered": false, "count": 0 },
+      "btc": { "date": "", "triggered": false, "count": 0 }
+    }
+  },
+  "recent_decisions": {
+    "_comment": "最近 10 条用户投资决策记录",
+    "entries": []
+  },
+  "soul_updates": {
+    "_comment": "所有对 my-soul.md 的修改记录，确保可追溯",
+    "entries": []
+  }
+}
