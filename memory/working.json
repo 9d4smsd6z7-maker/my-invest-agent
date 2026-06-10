@@ -1,25 +1,25 @@
 {
   "_comment": "工作记忆 — Agent 每次对话后自动更新，请勿手动随意修改",
-  "last_updated": "",
+  "last_updated": "2026-06-10",
   "watchlist": {
     "_comment": "当前关注的标的，Agent 从 my-soul.md 自动同步并补充",
     "equities": [],
-    "crypto": [],
-    "macro_indicators": ["VIX", "DXY", "US10Y", "US2Y"]
+    "crypto": ["BTC"],
+    "macro_indicators": ["VIX", "DXY", "US10Y", "US2Y", "Fear&Greed", "BTC-ETF-Flow"]
   },
   "active_research": {
     "_comment": "当前正在研究的课题",
-    "topics": [],
-    "pending_questions": []
+    "topics": ["BTC技术指标入门（RSI/支撑阻力位）", "贵金属与BTC联动关系", "现货ETF资金流向与价格关系"],
+    "pending_questions": ["BlackRock BTC→ETH再平衡是否预示机构轮动趋势？", "ETF连续流出何时触底？"]
   },
   "market_context": {
     "_comment": "Agent 对当前市场环境的判断，随对话持续更新",
-    "macro_stance": "",
-    "equity_bias": "",
-    "crypto_bias": "",
+    "macro_stance": "美联储政策不确定性压制风险资产，黄金年内+30%体现避险需求",
+    "equity_bias": "未跟踪",
+    "crypto_bias": "偏空：RSI极度超卖(16)，恐惧贪婪指数极度恐惧(8)，ETF连续4周净流出，技术趋势仍弱",
     "last_signal_check": {
       "sp500": { "date": "", "triggered": false, "count": 0 },
-      "btc": { "date": "", "triggered": false, "count": 0 }
+      "btc": { "date": "2026-06-10", "triggered": false, "count": 0 }
     }
   },
   "recent_decisions": {
