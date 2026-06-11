@@ -1,6 +1,6 @@
 {
   "_comment": "工作记忆 — Agent 每次对话后自动更新，请勿手动随意修改",
-  "last_updated": "2026-06-10",
+  "last_updated": "2026-06-11",
   "watchlist": {
     "_comment": "当前关注的标的，Agent 从 my-soul.md 自动同步并补充",
     "equities": [],
@@ -16,10 +16,10 @@
     "_comment": "Agent 对当前市场环境的判断，随对话持续更新",
     "macro_stance": "美联储政策不确定性压制风险资产，黄金年内+30%体现避险需求",
     "equity_bias": "未跟踪",
-    "crypto_bias": "偏空：RSI极度超卖(16)，恐惧贪婪指数极度恐惧(8)，ETF连续4周净流出，技术趋势仍弱",
+    "crypto_bias": "偏空：RSI 38.61（中性偏弱，未进超卖），恐惧贪婪指数极度恐惧(9)，ETF连续13日净流出(-$43亿)，12条均线全空头排列，BTC跌破支撑$63,000，横盘$61,000-$62,000区间",
     "last_signal_check": {
       "sp500": { "date": "", "triggered": false, "count": 0 },
-      "btc": { "date": "2026-06-10", "triggered": false, "count": 0 }
+      "btc": { "date": "2026-06-11", "triggered": false, "count": 0 }
     }
   },
   "recent_decisions": {
